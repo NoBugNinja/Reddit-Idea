@@ -1,0 +1,18 @@
+# Data processing and collection
+asyncio
+requests
+praw
+asyncpraw
+zstandard
+
+# Vector Database (optional for scale)
+qdrant-client
+sentence-transformers
+
+# AI/LLM Integration
+openai
+anthropic
+
+# Utility
+pydantic
+python-dotenv

@@ -1,0 +1,58 @@
+[
+    {
+        "problem_category": "Career Development",
+        "description": "Difficulty in finding job opportunities and navigating career transitions",
+        "frequency": 5,
+        "severity_evidence": "Entry-level jobs requiring excessive experience and skills, making it difficult for new entrants to join the workforce. Lack of transparency and guidance on salary expectations, leading to uncertainty and potential undervaluation of candidates.",
+        "suggested_product_idea": "A career development platform that provides job matching, salary guidance, and career transition support"
+    },
+    {
+        "problem_category": "Time Management",
+        "description": "Struggling to manage time effectively and avoid distractions",
+        "frequency": 4,
+        "severity_evidence": "Users are stuck in a loop of endless scrolling on social media, resulting in significant time wastage. Difficulty in stopping wasting time on social media and other distractions, leading to decreased productivity and increased stress.",
+        "suggested_product_idea": "A time management tool that helps users track and optimize their time usage, with features such as website blockers and productivity tracking"
+    },
+    {
+        "problem_category": "Financial Literacy",
+        "description": "Lack of understanding of financial concepts, such as loan amortization tables",
+        "frequency": 2,
+        "severity_evidence": "Many borrowers lack understanding of loan amortization tables, leading to financial misunderstandings. Difficulty in determining a fair payment for a coworker who is providing rides home from work, given a tight budget.",
+        "suggested_product_idea": "A financial literacy platform that provides educational resources and tools for managing personal finances, including loan amortization calculators"
+    },
+    {
+        "problem_category": "Job Search",
+        "description": "Difficulty in finding suitable job opportunities, especially in industries adopting automation and AI technologies",
+        "frequency": 3,
+        "severity_evidence": "Entry-level jobs requiring excessive experience and skills, making it difficult for new entrants to join the workforce. Industries adopting automation and AI technologies, resulting in reduced job opportunities.",
+        "suggested_product_idea": "A job search platform that utilizes AI to match candidates with job openings, with features such as skills assessments and career development resources"
+    },
+    {
+        "problem_category": "Work-Life Balance",
+        "description": "Struggling to balance work demands with personal health issues and responsibilities",
+        "frequency": 2,
+        "severity_evidence": "Users are struggling to balance work demands with personal health issues, such as cancer treatment. Difficulty in navigating a job change with a current employer who is reacting poorly to the resignation.",
+        "suggested_product_idea": "A work-life balance platform that provides resources and support for managing work and personal responsibilities, including tools for navigating job transitions and managing health issues"
+    },
+    {
+        "problem_category": "Client Management",
+        "description": "Frustration in dealing with uninformed or unrealistic clients, and the need to maintain patience and provide a full experience to all clients",
+        "frequency": 2,
+        "severity_evidence": "Dealing with uninformed or unrealistic clients can be frustrating and requires patience and understanding. Providing a full experience to all clients is essential for building trust and loyalty.",
+        "suggested_product_idea": "A client management platform that provides tools and resources for managing client relationships, including communication templates and customer feedback analysis"
+    },
+    {
+        "problem_category": "Business Development",
+        "description": "Challenge in finding effective channels for acquiring new clients, and the need to experiment with different strategies",
+        "frequency": 2,
+        "severity_evidence": "Finding effective channels for acquiring new clients can be challenging and requires experimentation with different strategies. Difficulty in determining the best approach for acquiring new clients can lead to frustration and decreased growth.",
+        "suggested_product_idea": "A business development platform that provides tools and resources for acquiring new clients, including marketing automation and lead generation features"
+    },
+    {
+        "problem_category": "Product Validation",
+        "description": "Difficulty in validating the value of a product or solution with potential customers",
+        "frequency": 2,
+        "severity_evidence": "Validating the value of a product or solution with potential customers can be challenging and requires effective communication and feedback mechanisms. Difficulty in validating product value can lead to decreased sales and growth.",
+        "suggested_product_idea": "A product validation platform that provides tools and resources for validating product value, including customer feedback analysis and market research features"
+    }
+]
